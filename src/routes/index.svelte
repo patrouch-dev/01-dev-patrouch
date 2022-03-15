@@ -1,6 +1,6 @@
 <svelte:head>
     <link href="https://fonts.googleapis.com/css?family=Gelasio" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Changa">
 
 </svelte:head>
 <h1>cleva</h1>
@@ -36,13 +36,13 @@
 
     }
     button {
-		font-family: "Sofia", sans-serif;
+		font-family: "Changa", sans-serif;
 	}
     p {
-    font-family: "Sofia", sans-serif;
+    font-family: "Changa", sans-serif;
     }
     :global body {
-  background-color: lightblue;
+  background-color: orangered;
   padding: 2%;
 }
 

@@ -12,7 +12,7 @@ const config = {
 			// default options are shown
 			out: 'build',
 			precompress: false,
-			env: {
+			envPrefix: {
 				path: 'SOCKET_PATH',
 				host: 'HOST',
 				port: 'PORT',

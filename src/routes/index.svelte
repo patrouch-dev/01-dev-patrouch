@@ -9,8 +9,8 @@
 
 
 </svelte:head>
-<h1>cleva</h1>
-<p>Bright ideas from unexpected places</p>
+<h1>Christopher Patrouch</h1>
+<p>Traction Developer, alpha testing</p>
 <script>
 	let count = 1;
 

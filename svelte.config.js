@@ -22,7 +22,8 @@ const config = {
 					host: 'HOST_HEADER'
 				}
 			}
-		})
+		}),
+		trailingSlash: 'always'
 	}
 };
 

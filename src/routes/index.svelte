@@ -23,6 +23,7 @@
 
 <svelte:body />
 <style>
+  import css from "./font.css";
   @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Special+Elite&display=swap');
     h1 {
     font-family: 'Special Elite', cursive;
